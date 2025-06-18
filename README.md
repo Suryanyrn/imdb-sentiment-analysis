@@ -42,7 +42,7 @@ Evaluated model performance using accuracy, precision, and recall.
 
 Results
 
-The best-performing model achieved an accuracy of XX% (replace with actual results).
+The best-performing model achieved an accuracy of 89.45%
 
 Future Improvements
 
